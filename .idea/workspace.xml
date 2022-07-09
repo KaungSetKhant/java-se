@@ -11,6 +11,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lessons/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lessons/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lessons/KaungKhant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lessons/ShiftOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lessons/Ternary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
